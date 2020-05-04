@@ -3,6 +3,7 @@ body{
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	background-color:#362c36;
 	background: url(fon3.png);
+	height: 100%;
 }
 #header{
 	background: url(download.gif) no-repeat;
